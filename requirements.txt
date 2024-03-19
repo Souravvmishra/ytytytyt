@@ -1,0 +1,10 @@
+flask
+pillow
+requests
+filestack-python
+google-generativeai
+gunicorn 
+moviepy
+opencv-python
+pymongo
+pytelegrambotapi
